@@ -8,6 +8,7 @@ google	UK	no	21	Premium
 google	USA	no	24	Premium
 slashdot	France	yes	19	None
 digg	USA	no	18	None
+slashdot	UK	No	21	None
 google	UK	no	18	None
 kiwitobes	UK	no	19	None
 digg	New Zealand	yes	12	Basic
